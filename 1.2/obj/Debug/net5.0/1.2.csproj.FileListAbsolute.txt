@@ -1,0 +1,15 @@
+/Users/dionfinnerty/Swinburne/code/FunctionMethods/1.2/bin/Debug/net5.0/1.2.deps.json
+/Users/dionfinnerty/Swinburne/code/FunctionMethods/1.2/bin/Debug/net5.0/1.2.runtimeconfig.json
+/Users/dionfinnerty/Swinburne/code/FunctionMethods/1.2/bin/Debug/net5.0/1.2.runtimeconfig.dev.json
+/Users/dionfinnerty/Swinburne/code/FunctionMethods/1.2/bin/Debug/net5.0/1.2.dll
+/Users/dionfinnerty/Swinburne/code/FunctionMethods/1.2/bin/Debug/net5.0/ref/1.2.dll
+/Users/dionfinnerty/Swinburne/code/FunctionMethods/1.2/bin/Debug/net5.0/1.2.pdb
+/Users/dionfinnerty/Swinburne/code/FunctionMethods/1.2/obj/Debug/net5.0/1.2.csprojAssemblyReference.cache
+/Users/dionfinnerty/Swinburne/code/FunctionMethods/1.2/obj/Debug/net5.0/1.2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dionfinnerty/Swinburne/code/FunctionMethods/1.2/obj/Debug/net5.0/1.2.AssemblyInfoInputs.cache
+/Users/dionfinnerty/Swinburne/code/FunctionMethods/1.2/obj/Debug/net5.0/1.2.AssemblyInfo.cs
+/Users/dionfinnerty/Swinburne/code/FunctionMethods/1.2/obj/Debug/net5.0/1.2.csproj.CoreCompileInputs.cache
+/Users/dionfinnerty/Swinburne/code/FunctionMethods/1.2/obj/Debug/net5.0/1.2.dll
+/Users/dionfinnerty/Swinburne/code/FunctionMethods/1.2/obj/Debug/net5.0/ref/1.2.dll
+/Users/dionfinnerty/Swinburne/code/FunctionMethods/1.2/obj/Debug/net5.0/1.2.pdb
+/Users/dionfinnerty/Swinburne/code/FunctionMethods/1.2/obj/Debug/net5.0/1.2.genruntimeconfig.cache
