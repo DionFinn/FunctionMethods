@@ -5,19 +5,24 @@ namespace _1._4
     class Program
     {
         static void Main(string[] args)
-        { static void space()
+        { 
+            space();    
+        }  
+         
+        static void space()
         {
-            Console.WriteLine("please input a string");
-            Console.ReadLine();
-            string spacebar = Console.WriteLine(" ");
-            int counter = 0;
-            while (counter == 0) {
-                if ()
-            }
-        }
+            Console.WriteLine("enter a string");
+            string input = Console.ReadLine();
+            int spaces = 0;
+  
+            for(int i = 0; i < input.Length; i++)
+            {
+                if (input[i] == ' ') 
                 {
-                    Console.WriteLine("Hello World!");
+                    spaces++;
                 }
-        }   
+            }
+            Console.WriteLine("you have " +  spaces + " spaces in your string");
+        }
     }
 }
